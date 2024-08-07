@@ -13,7 +13,7 @@ Simple UI:
   - With the simple-to-use User Interface, navigating around the UI won't be much of a hassle.
 
 Is this exploit trustable?:
-  - We can assure you that Electron is 99.9% trustable and is safe to use.
+  - We can assure you that Electron is 100% trustable and is safe to use.
 
 [THIS EXECUTOR ONLY SUPPORTS WINDOWS 10 & 11]
 
