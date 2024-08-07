@@ -2,6 +2,7 @@
 
 Usage:
   - Execute "Built.exe", and search "Electron" on the Windows search bar and click it.
+
 Stability:
   - With stability as a priority, Electron Executor can execute most scripts flawlessly without any crashes.
 
